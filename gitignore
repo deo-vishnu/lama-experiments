@@ -1,0 +1,19 @@
+# large / unwanted
+*.npz
+*.npy
+*.png
+*.jpg
+*.pt
+*.pth
+
+# folders
+LaMa_models/
+data/
+results/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter checkpoints
+.ipynb_checkpoints/
